@@ -103,22 +103,24 @@
 <!-- End GitHub Statistics -->
 ---
 
-## 🤝 Let's Connect!
+## 🤝 Let's Connect
 
-<div align="center">
+<p align="center">
+  <a href="https://github.com/amiranasser580">
+    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="www.linkedin.com/in/amiranasser155">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+  </a>
+</p>
 
-<a href="https://github.com/amiranasser580">
-  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-</a>
+<br>
 
-<a href="www.linkedin.com/in/amiranasser155">
-  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-</a>
+<p align="center">
+  <i>Always Learning • Always Building • Always Improving</i>
+</p>
 
-<br/><br/>
-
-### ✨ Always Learning. Always Building. Always Improving.
-
-⭐ *Thanks for visiting my profile!*
-
-</div>
+<p align="center">
+  Thanks for stopping by ✨
+</p>
