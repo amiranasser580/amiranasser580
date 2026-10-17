@@ -133,16 +133,54 @@ Repository: YOUR_PROJECT_REPOSITORY_URL
 
 ---
 
-## 📈 GitHub Statistics
+<!-- GitHub Statistics -->
+
+<h2 align="center">📊 GitHub Analytics</h2>
+
+<p align="center">
+  <i>My coding journey, contributions, and open-source activity.</i>
+</p>
+
+<br>
 
 <div align="center">
 
-<img height="165" src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github"
+    alt="GitHub Statistics"
+  />
 
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+  <img
+    width="49%"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
+    alt="Most Used Languages"
+  />
 
 </div>
 
+<br>
+
+<div align="center">
+
+  <img
+    width="70%"
+    src="https://streak-stats.demolab.com?user=amiranasser580&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
+    alt="GitHub Contribution Streak"
+  />
+
+</div>
+
+<br>
+
+<p align="center">
+  <img
+    src="https://komarev.com/ghpvc/?username=amiranasser580&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
+    alt="Profile Views"
+  />
+</p>
+
+<!-- End GitHub Statistics -->
 ---
 
 ## 🤝 Let's Connect!
