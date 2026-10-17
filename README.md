@@ -114,48 +114,31 @@ SQL & Databases      ███████░░░
 
 <h2 >📊 GitHub Analytics</h2>
 
-<p align="center">
-  <i>My coding journey, contributions, and open-source activity.</i>
-</p>
+## 📊 GitHub Analytics
 
-<br>
+*My coding journey, contributions, and open-source activity.*
 
 <div align="center">
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=60A5FA&text_color=E5E7EB&rank_icon=github"
-    alt="GitHub Statistics"
-  />
+<!-- البطاقة الرئيسية + الرسم البياني -->
+<img src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" height="180"/>
 
-  <img
-    width="49%"
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=E5E7EB"
-    alt="Most Used Languages"
-  />
+<!-- بطاقة الـ Streak -->
+<img src="https://streak-stats.demolab.com/?user=amiranasser580&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA" height="180"/>
 
-</div>
+<br/>
 
-<br>
+<!-- رسم المساهمات (Activity Graph) بنفس لون البنفسجي -->
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true&area_color=A78BFA" width="100%"/>
 
-<div align="center">
+<br/>
 
-  <img
-    width="70%"
-    src="https://streak-stats.demolab.com?user=amiranasser580&hide_border=true&background=0D1117&ring=A78BFA&fire=60A5FA&currStreakLabel=A78BFA&sideLabels=E5E7EB&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=9CA3AF"
-    alt="GitHub Contribution Streak"
-  />
+<!-- اللغات -->
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
 
 </div>
 
-<br>
 
-<p align="center">
-  <img
-    src="https://komarev.com/ghpvc/?username=amiranasser580&style=for-the-badge&color=7C3AED&label=PROFILE+VIEWS"
-    alt="Profile Views"
-  />
-</p>
 
 <!-- End GitHub Statistics -->
 ---
