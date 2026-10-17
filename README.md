@@ -120,20 +120,19 @@ SQL & Databases      ███████░░░
 
 <div align="center">
 
-  <img src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" height="180" />
-  &nbsp;
-  <img src="https://streak-stats.demolab.com/?user=amiranasser580&theme=radical&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" height="180" />
+&nbsp;
+<img src="https://github-readme-streak-stats-eight.vercel.app/?user=amiranasser580&theme=radical&hide_border=true" height="180" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true" width="100%" />
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true" width="100%" />
 
-  <br/><br/>
+<br/><br/>
 
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=tokyonight&hide_border=true" height="180" />
 
 </div>
-
 
 
 <!-- End GitHub Statistics -->
