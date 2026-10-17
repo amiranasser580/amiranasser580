@@ -120,21 +120,16 @@ SQL & Databases      ███████░░░
 
 <div align="center">
 
-<!-- البطاقة الرئيسية + الرسم البياني -->
-<img src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&icon_color=A78BFA&text_color=C9D1D9&include_all_commits=true" height="180"/>
-
-<!-- بطاقة الـ Streak -->
-<img src="https://streak-stats.demolab.com/?user=amiranasser580&theme=dark&hide_border=true&background=0D1117&ring=A78BFA&fire=A78BFA&currStreakLabel=A78BFA&sideLabels=A78BFA" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=midnight-purple&hide_border=true&include_all_commits=true" height="180" />
+<img src="https://streak-stats.demolab.com/?user=amiranasser580&theme=radical&hide_border=true" height="180" />
 
 <br/>
 
-<!-- رسم المساهمات (Activity Graph) بنفس لون البنفسجي -->
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true&area_color=A78BFA" width="100%"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true" width="100%" />
 
 <br/>
 
-<!-- اللغات -->
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=dark&hide_border=true&bg_color=0D1117&title_color=A78BFA&text_color=C9D1D9" height="180"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=midnight-purple&hide_border=true" height="180" />
 
 </div>
 
