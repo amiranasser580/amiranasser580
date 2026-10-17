@@ -171,7 +171,7 @@ SQL & Databases      ███████░░░
   <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
 </a>
 
-<a href="YOUR_LINKEDIN_URL">
+<a href="www.linkedin.com/in/amiranasser155">
   <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
 </a>
 
