@@ -107,22 +107,16 @@
 
 <p align="center">
   <a href="https://github.com/amiranasser580">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
   &nbsp;
   <a href="www.linkedin.com/in/amiranasser155">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
-</p>
-
-<br>
-
-<p align="center">
-  ⭐ <b>Thanks for visiting my profile!</b>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.+Always+Improving.;Passionate+about+Data+%26+Technology;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
