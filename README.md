@@ -107,20 +107,22 @@
 
 <p align="center">
   <a href="https://github.com/amiranasser580">
-    <img src="https://img.shields.io/badge/GitHub-Follow-181717?style=flat-square&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
   </a>
   &nbsp;
   <a href="www.linkedin.com/in/amiranasser155">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=flat-square&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <i>Always Learning • Always Building • Always Improving</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&duration=3000&pause=1000&color=A78BFA&center=true&vCenter=true&width=500&lines=Always+Learning.+Always+Building.+Always+Improving." alt="Typing SVG" />
 </p>
 
+<br>
+
 <p align="center">
-  Thanks for stopping by ✨
+  ⭐ <b>Thanks for visiting my profile!</b>
 </p>
