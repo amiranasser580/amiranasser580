@@ -1,69 +1,146 @@
-<h1 align="center">Hi 👋, I'm Amira Nasser</h1>
+Act as a senior GitHub profile designer and README.md
+developer specializing in professional Data Engineering
+and Big Data portfolios.
 
-<h3 align="center">
-  <code>Big Data & Aspiring Data Engineer</code>
-</h3>
+I want you to create a stunning, modern, and highly
+professional GitHub Profile README.md for me.
 
-<p align="center">
-  <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+MY PROFILE:
+- Name: Amira Nasser
+- GitHub Username: amiranasser580
+- Role: Aspiring Data Engineer | Big Data Enthusiast
+- Education: Computer Science Student at Helwan University, Egypt
+- Interests: Big Data, Data Engineering, Data Analysis,
+  SQL, Python, and Data Processing.
 
----
+DESIGN DIRECTION:
+Create a premium developer portfolio inspired by
+top-tier GitHub profiles.
 
-## 👩‍💻 About Me
+Use a sophisticated dark theme with:
+- A black or deep navy background.
+- Purple, cyan, and blue accent colors.
+- Clean typography and excellent spacing.
+- A modern, technical, and elegant appearance.
+- Colorful technology badges.
+- Minimalist emojis used professionally.
+- Clear section separators.
+- Centered hero section with a strong visual identity.
 
-- 🎓 Computer Science Student at Helwan University.
-- 📊 Interested in Big Data and Data Engineering.
-- 🌱 Learning data processing, databases, and analytics.
-- 💻 Building projects to improve my technical skills.
-- ⚡ I enjoy learning new technologies and solving problems.
+REQUIRED SECTIONS:
 
----
+1. HERO SECTION
+- A large, centered greeting:
+  "Hi 👋, I'm Amira Nasser"
+- An elegant subtitle:
+  "Aspiring Data Engineer | Big Data Enthusiast"
+- A short professional tagline about transforming
+  raw data into meaningful insights.
+- A LinkedIn button using a shields.io badge.
+- A GitHub profile introduction with balanced spacing.
 
-## 🛠️ Tech Stack
+2. ABOUT ME
+Create a concise, professional introduction that explains:
+- My background as a Computer Science student.
+- My interest in Data Engineering and Big Data.
+- My passion for learning and building data projects.
+- My goal of developing reliable data processing skills.
+Keep the content authentic and appropriate for a student.
 
-### 📊 Data Analysis
+3. TECH STACK
+Create visually organized categories with colorful badges.
 
-<p>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" />
-  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" />
-</p>
+Programming:
+- Python
+- SQL
 
-### 🗄️ Databases
+Data Analysis:
+- Excel
+- Power BI
+- Pandas
 
-<p>
-  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
-</p>
+Databases:
+- MySQL
 
-### ⚙️ Tools
+Development Tools:
+- Git
+- GitHub
 
-<p>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
-</p>
+Big Data Technologies:
+- Hadoop
+- Apache Spark
+- Apache Airflow
 
----
+Only present technologies as current skills if confirmed.
+Otherwise, label them as technologies I'm exploring
+or learning.
 
-## 📂 Featured Projects
+4. WHAT I'M LEARNING
+Create a visually appealing section highlighting:
+- Data Engineering fundamentals.
+- ETL and ELT pipelines.
+- Data Warehousing.
+- Big Data processing.
+- SQL optimization and data modeling.
 
-🚀 More projects coming soon!
+5. FEATURED PROJECTS
+Design a professional project showcase section.
 
----
+For each project, provide:
+- Project name.
+- Short description.
+- Technologies used.
+- A link placeholder for the repository.
 
-## 🤝 Connect With Me
+Do not invent existing projects.
+Use clearly marked placeholders until I add real projects.
 
-<p>
-  <a href="www.linkedin.com/in/amiranasser155">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" />
-  </a>
-</p>
+6. GITHUB STATISTICS
+Add optional GitHub statistics cards using reputable
+public services, such as GitHub Readme Stats.
 
----
+Include:
+- GitHub statistics.
+- Most-used languages.
+- Contribution activity if available.
 
-<p align="center">
-  ⭐ Thanks for visiting my profile!
-</p>
+Use my username: amiranasser580.
+
+Ensure the cards use a dark theme that matches
+the overall design.
+
+7. CONNECT WITH ME
+Create a clean social section with buttons for:
+- LinkedIn
+- GitHub
+
+Use placeholders for links that have not been provided.
+
+8. FOOTER
+Add a subtle closing message:
+"Always learning. Always building. Always improving."
+
+TECHNICAL REQUIREMENTS:
+- Output a complete, ready-to-paste README.md file.
+- Use valid GitHub-flavored Markdown and HTML.
+- Use shields.io badges for technology logos.
+- Use HTML alignment where appropriate.
+- Keep the code clean, readable, and maintainable.
+- Ensure the layout works on desktop and mobile.
+- Avoid excessive emojis and unnecessary decorations.
+- Avoid broken image links whenever possible.
+- Do not include fake achievements, fake certifications,
+  or fabricated project links.
+- Do not claim professional experience I do not have.
+- Do not use technologies as mastered skills unless
+  they are confirmed.
+
+IMPORTANT:
+The result should look like a polished Data Engineering
+portfolio, not a generic beginner profile.
+
+Prioritize visual hierarchy, readability, authenticity,
+and a consistent dark aesthetic.
+
+Return the complete README.md code in one code block,
+with no explanations outside the code block.
