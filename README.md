@@ -112,7 +112,7 @@ SQL & Databases      ███████░░░
 
 <!-- GitHub Statistics -->
 
-<h2 >📊 GitHub Analytics</h2>
+
 
 ## 📊 GitHub Analytics
 
