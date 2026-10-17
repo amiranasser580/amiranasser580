@@ -115,5 +115,5 @@
 <br>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Always+Learning.+Always+Building.+Always+Improving.;Passionate+about+Data+%26+Technology;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=22&duration=3000&pause=1500&color=A78BFA&center=true&vCenter=true&width=800&lines=Always+Learning.+Always+Building.+Always+Improving.;Passionate+about+Data+and+Technology;Thanks+for+visiting+my+profile!" alt="Typing SVG" />
 </p>
