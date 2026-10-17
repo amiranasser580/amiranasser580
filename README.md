@@ -113,11 +113,6 @@ SQL & Databases      ███████░░░
 ---
 
 
-
-
-
----
-
 <!-- GitHub Statistics -->
 
 <h2 align="center">📊 GitHub Analytics</h2>
