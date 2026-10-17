@@ -113,19 +113,8 @@ SQL & Databases      ███████░░░
 ---
 
 
-<!-- Add your real projects here when they are ready.
 
-### 📊 Sales Data Analysis
-Description: Analyze sales data and discover business insights.
-Technologies: Python, Pandas, Matplotlib
-Repository: YOUR_PROJECT_REPOSITORY_URL
 
-### 🗄️ SQL Data Analysis
-Description: Use SQL queries to explore and analyze datasets.
-Technologies: SQL, MySQL
-Repository: YOUR_PROJECT_REPOSITORY_URL
-
--->
 
 ---
 
