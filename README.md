@@ -1,146 +1,137 @@
-Act as a senior GitHub profile designer and README.md
-developer specializing in professional Data Engineering
-and Big Data portfolios.
+<div align="center">
 
-I want you to create a stunning, modern, and highly
-professional GitHub Profile README.md for me.
+# Hi 👋, I'm Amira Nasser
 
-MY PROFILE:
-- Name: Amira Nasser
-- GitHub Username: amiranasser580
-- Role: Aspiring Data Engineer | Big Data Enthusiast
-- Education: Computer Science Student at Helwan University, Egypt
-- Interests: Big Data, Data Engineering, Data Analysis,
-  SQL, Python, and Data Processing.
+### 💜 Aspiring Data Engineer | Big Data Enthusiast
 
-DESIGN DIRECTION:
-Create a premium developer portfolio inspired by
-top-tier GitHub profiles.
+*Turning data into insights, one pipeline at a time.*
 
-Use a sophisticated dark theme with:
-- A black or deep navy background.
-- Purple, cyan, and blue accent colors.
-- Clean typography and excellent spacing.
-- A modern, technical, and elegant appearance.
-- Colorful technology badges.
-- Minimalist emojis used professionally.
-- Clear section separators.
-- Centered hero section with a strong visual identity.
+<p>
+  <a href="https://github.com/amiranasser580">
+    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  </a>
+  <a href="YOUR_LINKEDIN_URL">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</p>
 
-REQUIRED SECTIONS:
+</div>
 
-1. HERO SECTION
-- A large, centered greeting:
-  "Hi 👋, I'm Amira Nasser"
-- An elegant subtitle:
-  "Aspiring Data Engineer | Big Data Enthusiast"
-- A short professional tagline about transforming
-  raw data into meaningful insights.
-- A LinkedIn button using a shields.io badge.
-- A GitHub profile introduction with balanced spacing.
+---
 
-2. ABOUT ME
-Create a concise, professional introduction that explains:
-- My background as a Computer Science student.
-- My interest in Data Engineering and Big Data.
-- My passion for learning and building data projects.
-- My goal of developing reliable data processing skills.
-Keep the content authentic and appropriate for a student.
+## 👩‍💻 About Me
 
-3. TECH STACK
-Create visually organized categories with colorful badges.
+🎓 Computer Science Student at **Helwan University, Egypt**.
 
-Programming:
-- Python
-- SQL
+- 📊 Interested in Big Data and Data Engineering.
+- 🐍 Developing my skills in Python and SQL.
+- 🗄️ Exploring databases, data processing, and analytics.
+- 🚀 Passionate about building projects and solving problems.
+- 🌱 Continuously learning new technologies in the data ecosystem.
 
-Data Analysis:
-- Excel
-- Power BI
-- Pandas
+---
 
-Databases:
-- MySQL
+## 🛠️ Tech Stack
 
-Development Tools:
-- Git
-- GitHub
+### 💻 Programming Languages
 
-Big Data Technologies:
-- Hadoop
-- Apache Spark
-- Apache Airflow
+<p>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python"/>
+  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=databricks&logoColor=white" alt="SQL"/>
+</p>
 
-Only present technologies as current skills if confirmed.
-Otherwise, label them as technologies I'm exploring
-or learning.
+### 📊 Data Analysis & Visualization
 
-4. WHAT I'M LEARNING
-Create a visually appealing section highlighting:
-- Data Engineering fundamentals.
-- ETL and ELT pipelines.
-- Data Warehousing.
-- Big Data processing.
-- SQL optimization and data modeling.
+<p>
+  <img src="https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoftexcel&logoColor=white" alt="Excel"/>
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black" alt="Power BI"/>
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+</p>
 
-5. FEATURED PROJECTS
-Design a professional project showcase section.
+### 🗄️ Databases
 
-For each project, provide:
-- Project name.
-- Short description.
-- Technologies used.
-- A link placeholder for the repository.
+<p>
+  <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL"/>
+</p>
 
-Do not invent existing projects.
-Use clearly marked placeholders until I add real projects.
+### ⚙️ Tools & Technologies
 
-6. GITHUB STATISTICS
-Add optional GitHub statistics cards using reputable
-public services, such as GitHub Readme Stats.
+<p>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white" alt="VS Code"/>
+</p>
 
-Include:
-- GitHub statistics.
-- Most-used languages.
-- Contribution activity if available.
+---
 
-Use my username: amiranasser580.
+## 🌱 Currently Learning
 
-Ensure the cards use a dark theme that matches
-the overall design.
+```text
+Data Engineering     ███████░░░
+Big Data             ██████░░░░
+Data Analytics       ███████░░░
+SQL & Databases      ███████░░░
+```
 
-7. CONNECT WITH ME
-Create a clean social section with buttons for:
-- LinkedIn
-- GitHub
+*Progress bars are illustrative, not measured skill ratings.*
 
-Use placeholders for links that have not been provided.
+- 🔄 ETL and ELT Pipelines
+- 🏗️ Data Warehousing
+- 📦 Big Data Processing
+- 🧹 Data Cleaning and Transformation
+- 🔍 SQL Query Optimization
 
-8. FOOTER
-Add a subtle closing message:
-"Always learning. Always building. Always improving."
+---
 
-TECHNICAL REQUIREMENTS:
-- Output a complete, ready-to-paste README.md file.
-- Use valid GitHub-flavored Markdown and HTML.
-- Use shields.io badges for technology logos.
-- Use HTML alignment where appropriate.
-- Keep the code clean, readable, and maintainable.
-- Ensure the layout works on desktop and mobile.
-- Avoid excessive emojis and unnecessary decorations.
-- Avoid broken image links whenever possible.
-- Do not include fake achievements, fake certifications,
-  or fabricated project links.
-- Do not claim professional experience I do not have.
-- Do not use technologies as mastered skills unless
-  they are confirmed.
+## 🚀 Featured Projects
 
-IMPORTANT:
-The result should look like a polished Data Engineering
-portfolio, not a generic beginner profile.
+> More projects coming soon! I'm working on building projects
+> that demonstrate my skills in data analysis and engineering.
 
-Prioritize visual hierarchy, readability, authenticity,
-and a consistent dark aesthetic.
+<!-- Add your real projects here when they are ready.
 
-Return the complete README.md code in one code block,
-with no explanations outside the code block.
+### 📊 Sales Data Analysis
+Description: Analyze sales data and discover business insights.
+Technologies: Python, Pandas, Matplotlib
+Repository: YOUR_PROJECT_REPOSITORY_URL
+
+### 🗄️ SQL Data Analysis
+Description: Use SQL queries to explore and analyze datasets.
+Technologies: SQL, MySQL
+Repository: YOUR_PROJECT_REPOSITORY_URL
+
+-->
+
+---
+
+## 📈 GitHub Statistics
+
+<div align="center">
+
+<img height="165" src="https://github-readme-stats.vercel.app/api?username=amiranasser580&show_icons=true&theme=tokyonight&hide_border=true&rank_icon=github" alt="GitHub Statistics"/>
+
+<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages"/>
+
+</div>
+
+---
+
+## 🤝 Let's Connect!
+
+<div align="center">
+
+<a href="https://github.com/amiranasser580">
+  <img src="https://img.shields.io/badge/GitHub-Follow_Me-181717?style=for-the-badge&logo=github" alt="GitHub"/>
+</a>
+
+<a href="YOUR_LINKEDIN_URL">
+  <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
+</a>
+
+<br/><br/>
+
+### ✨ Always Learning. Always Building. Always Improving.
+
+⭐ *Thanks for visiting my profile!*
+
+</div>
