@@ -2,11 +2,11 @@
   
   ### Hi 👋, I'm **Amira Nasser**
 
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer+%7C+Big+Data+Enthusiast;Turning+data+into+insights%2C+one+pipeline+at+a+time." alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3200&pause=1400&color=A78BFA&center=true&vCenter=true&width=720&lines=Aspiring+Data+Engineer+%7C+Big+Data+Enthusiast;Turning+data+into+insights%2C+one+pipeline+at+a+time." alt="Typing Subtitle" />
 
   <br><br>
 
-  <a href="www.linkedin.com/in/amiranasser155">
+  <a href="https://www.linkedin.com/in/YOUR-LINKEDIN">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
 
