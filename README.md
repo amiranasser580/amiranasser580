@@ -112,10 +112,6 @@ SQL & Databases      ███████░░░
 
 ---
 
-## 🚀 Featured Projects
-
-> More projects coming soon! I'm working on building projects
-> that demonstrate my skills in data analysis and engineering.
 
 <!-- Add your real projects here when they are ready.
 
