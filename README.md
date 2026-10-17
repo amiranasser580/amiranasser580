@@ -21,7 +21,7 @@
 
 ## 👩‍💻 About Me
 
-🎓 Computer Science Student at **Helwan University, Egypt**.
+🎓 Computer Science Student at **Capital University, Egypt**.
 
 - 📊 Interested in Big Data and Data Engineering.
 - 🐍 Developing my skills in Python and SQL.
