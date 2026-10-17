@@ -115,7 +115,7 @@ SQL & Databases      ███████░░░
 
 <!-- GitHub Statistics -->
 
-<h2 align="center">📊 GitHub Analytics</h2>
+<h2 >📊 GitHub Analytics</h2>
 
 <p align="center">
   <i>My coding journey, contributions, and open-source activity.</i>
