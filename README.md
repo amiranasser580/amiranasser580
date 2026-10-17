@@ -128,10 +128,6 @@ SQL & Databases      ███████░░░
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=amiranasser580&theme=react-dark&bg_color=0D1117&color=A78BFA&line=A78BFA&point=A78BFA&area=true&hide_border=true" width="100%" />
 
-<br/><br/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=amiranasser580&layout=compact&theme=tokyonight&hide_border=true" height="180" />
-
 </div>
 
 
