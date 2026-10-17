@@ -70,20 +70,12 @@
 
 ## 🌱 Currently Learning
 
-```text
-Data Engineering     ███████░░░
-Big Data             ██████░░░░
-Data Analytics       ███████░░░
-SQL & Databases      ███████░░░
-```
-
-*Progress bars are illustrative, not measured skill ratings.*
-
-- 🔄 ETL and ELT Pipelines
-- 🏗️ Data Warehousing
-- 📦 Big Data Processing
-- 🧹 Data Cleaning and Transformation
-- 🔍 SQL Query Optimization
+### Focus Areas
+- 🔄 ETL and ELT Pipelines  
+- 🏛️ Data Warehousing  
+- 📦 Big Data Processing  
+- 🧹 Data Cleaning and Transformation  
+- ⚡ SQL Query Optimization
 
 ---
 
