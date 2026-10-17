@@ -1,16 +1,16 @@
 <div align="center">
+  
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amira+Nasser" alt="Typing Name" />
 
-# Hi 👋, I'm Amira Nasser
+  <br>
 
-### 💜 Aspiring Data Engineer | Big Data Enthusiast
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer+%7C+Big+Data+Enthusiast;Turning+data+into+insights%2C+one+pipeline+at+a+time." alt="Typing Subtitle" />
 
-*Turning data into insights, one pipeline at a time.*
+  <br><br>
 
-<p>
-   <a href="YOUR_LINKEDIN_URL">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  <a href="www.linkedin.com/in/amiranasser155">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-</p>
 
 </div>
 
