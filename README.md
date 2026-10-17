@@ -1,10 +1,8 @@
 <div align="center">
   
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=2800&pause=1000&color=A78BFA&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Amira+Nasser" alt="Typing Name" />
+  ### Hi 👋, I'm **Amira Nasser**
 
-  <br>
-
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=C9D1D9&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer+%7C+Big+Data+Enthusiast;Turning+data+into+insights%2C+one+pipeline+at+a+time." alt="Typing Subtitle" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1200&color=A78BFA&center=true&vCenter=true&width=600&lines=Aspiring+Data+Engineer+%7C+Big+Data+Enthusiast;Turning+data+into+insights%2C+one+pipeline+at+a+time." alt="Typing Subtitle" />
 
   <br><br>
 
